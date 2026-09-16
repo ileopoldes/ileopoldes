@@ -13,13 +13,9 @@
 <!-- About -->
 ### 👋 Hey, I'm Paulo
 
-Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments.
+Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments. I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up.
 
-I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up.
-
-My work has taken me from financial systems and healthcare applications to global payroll platforms, e-commerce, and real-time fleet management.
-
-I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
+My work has taken me from financial systems and healthcare applications to global payroll platforms, e-commerce, and real-time fleet management. I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
 
 ---
 
@@ -54,7 +50,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 
-**Languages & Backend**
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -66,7 +61,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -77,7 +71,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-**Databases & Messaging**
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -185,20 +178,6 @@ I'm also an entrepreneur.
 
 - **Code Society** — Co-founded a software company, providing technical leadership, architecture, and software delivery for clients.
 - **Quefo.me** — Co-founded a food delivery SaaS startup and helped bring its MVP to market in three months.
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ileopoldes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileopoldes&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ileopoldes&theme=github-compact&hide_border=true&area=true" />
-</p>
 
 ---
 
