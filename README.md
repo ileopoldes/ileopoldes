@@ -1,16 +1,281 @@
-## Hi there 👋
 
-<!--
-**ileopoldes/ileopoldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ==================== HEADER ==================== -->
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=17&descAlignY=58" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ==================== INTRO ==================== -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulobender">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ileopoldes">
+    <img src="https://img.shields.io/badge/GitHub-ileopoldes-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+### 👋 Hey, I'm Paulo
+
+Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments.
+
+I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up.
+
+My work has taken me from financial systems and healthcare applications to global payroll platforms, e-commerce, and real-time fleet management.
+
+I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
+
+I've also co-founded software companies, led engineering teams, and helped turn ideas into working products.
+
+I enjoy staying hands-on while contributing to architecture, technical direction, and engineering decisions that stand the test of time.
+
+---
+
+<!-- ==================== WHAT I DO ==================== -->
+
+### 🧩 What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**⚙️ Backend Engineering**
+
+Building APIs, backend services, and business-critical applications with Node.js, TypeScript, and Python.
+
+**🌐 Distributed Systems**
+
+Designing event-driven architectures, asynchronous workflows, and integrations between independent services.
+
+    </td>
+    <td width="50%" valign="top">
+
+**☁️ Cloud & Infrastructure**
+
+Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes.
+
+**🧠 Architecture & Technical Leadership**
+
+Making architectural decisions, improving existing systems, mentoring engineers, and balancing delivery with maintainability.
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+**Databases & Messaging**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+</p>
+
+**Frontend & Other Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+<!-- ==================== ENGINEERING HIGHLIGHTS ==================== -->
+
+### 🚀 Engineering Highlights
+
+A few examples of the problems I've worked on throughout my career.
+
+<details open>
+  <summary><strong>💸 Deel — Global Payroll & Financial Systems</strong></summary>
+  <br />
+
+  - Implemented custom permission controls for a global payroll product.
+  - Optimized critical SQL queries, improving performance by **70% on selected endpoints**.
+  - Worked with Node.js, TypeScript, PostgreSQL, Redis, AWS, and distributed messaging systems.
+
+  Focus: backend architecture, data consistency, performance, and business-critical workflows.
+</details>
+
+<details>
+  <summary><strong>⚡ Wayfair — Event-Driven Systems at Scale</strong></summary>
+  <br />
+
+  - Integrated microservices using Apache Kafka and event-driven architecture.
+  - Built an asynchronous controller for workflow-triggered events and packaged it into a reusable library for other services.
+  - Worked on APIs and distributed services in a high-traffic e-commerce environment.
+
+  Focus: asynchronous processing, service integration, scalability, and reliability.
+</details>
+
+<details>
+  <summary><strong>🚚 Trimble — Real-Time Fleet Management</strong></summary>
+  <br />
+
+  - Developed Elasticsearch-based systems supporting fleet management for **40,000+ vehicles**.
+  - Collaborated with hardware teams to define APIs and documentation for third-party device integrations.
+  - Helped establish integration approaches that reduced vendor lock-in.
+
+  Focus: real-time data, search, integrations, and system interoperability.
+</details>
+
+<details>
+  <summary><strong>☁️ Canibuild — Cloud-Native Product Development</strong></summary>
+  <br />
+
+  - Designed serverless architectures using AWS Lambda.
+  - Built full-stack applications with Node.js, TypeScript, and React.
+  - Integrated mapping capabilities into construction and real estate workflows.
+
+  Focus: product development, serverless architecture, and automation.
+</details>
+
+<details>
+  <summary><strong>🏥 AFIP — Healthcare & Laboratory Systems</strong></summary>
+  <br />
+
+  - Improved laboratory data processing, reducing processing time by **50%**.
+  - Modernized application architecture across Java/Spring, Node.js, and Angular.
+  - Contributed to technical leadership, mentoring, and engineering process improvements.
+
+  Focus: legacy modernization, system integration, and performance optimization.
+</details>
+
+---
+
+<!-- ==================== PROJECTS ==================== -->
+
+### 🔬 Projects & Technical Exploration
+
+I use GitHub to explore ideas, strengthen my computer science foundations, and build practical implementations of software engineering concepts.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**📚 Computer Science**
+
+A collection of learning resources and implementations covering computer science fundamentals.
+
+<a href="https://github.com/ileopoldes/computer-science">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+    </td>
+    <td width="50%" valign="top">
+
+**🔄 Tether Orderbook**
+
+A distributed peer-to-peer exchange take-home project featuring in-memory order books and inter-node order propagation using Grenache RPC.
+
+<a href="https://github.com/bender-tech-ltda/tether-orderbook">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== BEYOND ENGINEERING ==================== -->
+
+### 💡 Beyond Engineering
+
+I'm also an entrepreneur.
+
+**Code Society** — Co-founded a software company, providing technical leadership, architecture, and software delivery for clients.
+
+**Quefo.me** — Co-founded a food delivery SaaS startup and helped bring its MVP to market in three months.
+
+Building products and working directly with businesses has shaped how I approach engineering: understanding the problem, making pragmatic decisions, and delivering solutions that create value.
+
+---
+
+<!-- ==================== INTERESTS ==================== -->
+
+### 🌱 What I'm Interested In
+
+- Distributed systems and backend architecture.
+- Building products from the ground up.
+- Complex integrations and data-intensive applications.
+- Cloud-native systems and production reliability.
+- Engineering teams that value ownership, autonomy, and technical depth.
+- Continuous learning and understanding how things work under the hood.
+
+---
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ileopoldes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileopoldes&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ileopoldes&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+### 🤝 Let's Connect
+
+I'm always happy to connect with fellow engineers, founders, and people working on interesting technical challenges.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulobender">
+    <img src="https://img.shields.io/badge/LinkedIn-Paulo_Bender-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ileopoldes">
+    <img src="https://img.shields.io/badge/GitHub-ileopoldes-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building software, solving problems, and learning something new along the way.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+</p>
