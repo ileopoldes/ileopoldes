@@ -13,7 +13,7 @@
 <!-- About -->
 ### 👋 Hey, I'm Paulo
 
-Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments. I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up.
+Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments. I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up[cite: 1].
 
 My work has taken me from financial systems and healthcare applications to global payroll platforms, e-commerce, and real-time fleet management. I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
 
@@ -30,13 +30,13 @@ My work has taken me from financial systems and healthcare applications to globa
 Building APIs, backend services, and business-critical applications with Node.js, TypeScript, and Python.
 
 **🌐 Distributed Systems**
-Designing event-driven architectures, asynchronous workflows, and integrations between independent services.
+Designing event-driven architectures, asynchronous workflows, and integrations between independent services[cite: 1].
 
 </td>
 <td width="50%" valign="top">
 
 **☁️ Cloud & Infrastructure**
-Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes.
+Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes[cite: 1].
 
 **🧠 Architecture & Leadership**
 Making architectural decisions, improving existing systems, mentoring engineers, and balancing delivery with maintainability.
@@ -50,17 +50,21 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 
+**Languages & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 </p>
 
+**Cloud, DevOps & Containers**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -71,6 +75,7 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
+**Databases & Messaging**
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -83,65 +88,27 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 
 ---
 
-<!-- Engineering Highlights -->
-### 🚀 Engineering Highlights
+<!-- Current Focus & Interests -->
+### 🎯 Current Focus & Interests
 
-A few examples of the problems I've worked on throughout my career.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-  <summary><strong>💸 Deel — Global Payroll & Financial Systems</strong></summary>
-  <br />
+**📚 Continuous Learning**
+Currently expanding core foundations through a **Postgraduate Program in Computer Engineering** (covering digital systems, electronics, low-level systems, and embedded computing)[cite: 1].
 
-  - Implemented custom permission controls for a global payroll product.
-  - Optimized critical SQL queries, improving performance by **70% on selected endpoints**.
-  - Worked with Node.js, TypeScript, PostgreSQL, Redis, AWS, and distributed messaging systems.
+</td>
+<td width="50%" valign="top">
 
-  *Focus: backend architecture, data consistency, performance, and business-critical workflows.*
-</details>
+**💡 Technical Interests**
+- Scalable distributed systems & high-availability architectures[cite: 1].
+- Event-driven workflows & asynchronous data pipelines.
+- Exploring system internals and low-level concepts.
 
-<details>
-  <summary><strong>⚡ Wayfair — Event-Driven Systems at Scale</strong></summary>
-  <br />
-
-  - Integrated microservices using Apache Kafka and event-driven architecture.
-  - Built an asynchronous controller for workflow-triggered events and packaged it into a reusable library.
-  - Worked on APIs and distributed services in a high-traffic e-commerce environment.
-
-  *Focus: asynchronous processing, service integration, scalability, and reliability.*
-</details>
-
-<details>
-  <summary><strong>🚚 Trimble — Real-Time Fleet Management</strong></summary>
-  <br />
-
-  - Developed Elasticsearch-based systems supporting fleet management for **40,000+ vehicles**.
-  - Collaborated with hardware teams to define APIs and documentation for third-party device integrations.
-  - Helped establish integration approaches that reduced vendor lock-in.
-
-  *Focus: real-time data, search, integrations, and system interoperability.*
-</details>
-
-<details>
-  <summary><strong>☁️ Canibuild — Cloud-Native Product Development</strong></summary>
-  <br />
-
-  - Designed serverless architectures using AWS Lambda.
-  - Built full-stack applications with Node.js, TypeScript, and React.
-  - Integrated mapping capabilities into construction and real estate workflows.
-
-  *Focus: product development, serverless architecture, and automation.*
-</details>
-
-<details>
-  <summary><strong>🏥 AFIP — Healthcare & Laboratory Systems</strong></summary>
-  <br />
-
-  - Improved laboratory data processing, reducing processing time by **50%**.
-  - Modernized application architecture across Java/Spring, Node.js, and Angular.
-  - Contributed to technical leadership, mentoring, and engineering process improvements.
-
-  *Focus: legacy modernization, system integration, and performance optimization.*
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
