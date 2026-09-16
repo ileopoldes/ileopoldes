@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Backend%20&%20Distributed%20Systems&descSize=16&descAlignY=58" />
 
 <!-- Links / Badges -->
 <p align="center">
@@ -51,6 +51,11 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 ### 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -101,13 +106,16 @@ Expanding core foundations in digital systems, electronics, low-level architectu
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Low_Level-232F3E?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Workflows-00A67E?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-00A67E?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3_&_Crypto-3776AB?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-005571?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 <p style="font-size: 13px; margin-top: 4px;">
-Studying systems programming, smart contracts, and leveraging AI-assisted development (Claude, Cursor, custom harnesses).
+Systems programming, smart contracts, Web3/blockchain protocols, AI-driven workflows, and cybersecurity.
 </p>
 
 </td>
@@ -139,6 +147,8 @@ A collection of learning resources and implementations covering computer science
 <br/>
 A distributed peer-to-peer exchange take-home project featuring in-memory order books and inter-node order propagation using Grenache RPC.
 <p style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/Tether-26A69A?style=flat-square&logo=tether&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grenache-FF6600?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/P2P-27AAE1?style=flat-square&logo=libp2p&logoColor=white" />
   <img src="https://img.shields.io/badge/RPC-232F3E?style=flat-square&logo=json&logoColor=white" />
@@ -166,5 +176,5 @@ I'm also an entrepreneur.
   <i>Building software, solving problems, and learning something new along the way.</i>
 </p>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=100&section=footer" />
 </p>
