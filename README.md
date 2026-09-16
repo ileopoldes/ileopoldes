@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=58" />
 
 <!-- Links / Badges -->
 <p align="center">
@@ -13,7 +13,7 @@
 <!-- About -->
 ### 👋 Hey, I'm Paulo
 
-Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments. I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up[cite: 1].
+Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments. I'm a backend-focused engineer who enjoys solving complex technical problems, designing scalable systems, and building products from the ground up.
 
 My work has taken me from financial systems and healthcare applications to global payroll platforms, e-commerce, and real-time fleet management. I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
 
@@ -30,13 +30,13 @@ My work has taken me from financial systems and healthcare applications to globa
 Building APIs, backend services, and business-critical applications with Node.js, TypeScript, and Python.
 
 **🌐 Distributed Systems**
-Designing event-driven architectures, asynchronous workflows, and integrations between independent services[cite: 1].
+Designing event-driven architectures, asynchronous workflows, and integrations between independent services.
 
 </td>
 <td width="50%" valign="top">
 
 **☁️ Cloud & Infrastructure**
-Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes[cite: 1].
+Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes.
 
 **🧠 Architecture & Leadership**
 Making architectural decisions, improving existing systems, mentoring engineers, and balancing delivery with maintainability.
@@ -60,14 +60,14 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -90,7 +90,7 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 <br/>
 <img src="https://img.shields.io/badge/Postgraduate-Computer_Engineering-0F2027?style=flat-square&logo=bookstack&logoColor=white" />
 <p style="font-size: 13px; margin-top: 8px;">
-Expanding core foundations in digital systems, electronics, low-level architecture, and embedded computing[cite: 1].
+Expanding core foundations in digital systems, electronics, low-level architecture, and embedded computing.
 </p>
 
 </td>
@@ -166,5 +166,5 @@ I'm also an entrepreneur.
   <i>Building software, solving problems, and learning something new along the way.</i>
 </p>
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f2027%2C50%3A203a43%2C100%3A2c5364&height=100&section=footer" />
 </p>
