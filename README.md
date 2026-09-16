@@ -50,7 +50,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -62,10 +61,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-</p>
-
-**Cloud, DevOps & Containers**
-<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -73,10 +68,6 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
-**Databases & Messaging**
-<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -95,16 +86,29 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 <tr>
 <td width="50%" valign="top">
 
-**📚 Continuous Learning**
-Currently expanding core foundations through a **Postgraduate Program in Computer Engineering** (covering digital systems, electronics, low-level systems, and embedded computing)[cite: 1].
+**🎓 Academic Path**
+<br/>
+<img src="https://img.shields.io/badge/Postgraduate-Computer_Engineering-0F2027?style=flat-square&logo=bookstack&logoColor=white" />
+<p style="font-size: 13px; margin-top: 8px;">
+Expanding core foundations in digital systems, electronics, low-level architecture, and embedded computing[cite: 1].
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-**💡 Technical Interests**
-- Scalable distributed systems & high-availability architectures[cite: 1].
-- Event-driven workflows & asynchronous data pipelines.
-- Exploring system internals and low-level concepts.
+**🔬 Technical Explorations**
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Low_Level-232F3E?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-00A67E?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3_&_Crypto-3776AB?style=flat-square&logo=ethereum&logoColor=white" />
+</p>
+<p style="font-size: 13px; margin-top: 4px;">
+Studying systems programming, smart contracts, and leveraging AI-assisted development (Claude, Cursor, custom harnesses).
+</p>
 
 </td>
 </tr>
@@ -120,16 +124,25 @@ Currently expanding core foundations through a **Postgraduate Program in Compute
 <td width="50%" valign="top">
 
 **📚 Computer Science**
+<br/>
 A collection of learning resources and implementations covering computer science fundamentals.
-
+<p style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-7952B3?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 <a href="https://github.com/ileopoldes/computer-science"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **🔄 Tether Orderbook**
+<br/>
 A distributed peer-to-peer exchange take-home project featuring in-memory order books and inter-node order propagation using Grenache RPC.
-
+<p style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/P2P-27AAE1?style=flat-square&logo=libp2p&logoColor=white" />
+  <img src="https://img.shields.io/badge/RPC-232F3E?style=flat-square&logo=json&logoColor=white" />
+</p>
 <a href="https://github.com/bender-tech-ltda/tether-orderbook"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
