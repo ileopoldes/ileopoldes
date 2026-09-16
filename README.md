@@ -1,20 +1,16 @@
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=16&descAlignY=58" />
 
-<!-- ==================== HEADER ==================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descSize=17&descAlignY=58" />
-
-<!-- ==================== INTRO ==================== -->
-
+<!-- Links / Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulobender">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ileopoldes">
-    <img src="https://img.shields.io/badge/GitHub-ileopoldes-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://www.linkedin.com/in/paulobender"><img src="https://img.shields.io/badge/LinkedIn-Paulo_Bender-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ileopoldes"><img src="https://img.shields.io/badge/GitHub-ileopoldes-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Florianópolis%2C%20Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
+---
+
+<!-- About -->
 ### 👋 Hey, I'm Paulo
 
 Senior Software Engineer based in **Florianópolis, Brazil**, with 15+ years of experience building software across startups and enterprise environments.
@@ -25,52 +21,41 @@ My work has taken me from financial systems and healthcare applications to globa
 
 I've worked with distributed systems, event-driven architectures, cloud infrastructure, and high-performance APIs — but I'm just as interested in understanding the business problem behind the code.
 
-I've also co-founded software companies, led engineering teams, and helped turn ideas into working products.
-
-I enjoy staying hands-on while contributing to architecture, technical direction, and engineering decisions that stand the test of time.
-
 ---
 
-<!-- ==================== WHAT I DO ==================== -->
-
+<!-- What I Do -->
 ### 🧩 What I Do
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **⚙️ Backend Engineering**
-
 Building APIs, backend services, and business-critical applications with Node.js, TypeScript, and Python.
 
 **🌐 Distributed Systems**
-
 Designing event-driven architectures, asynchronous workflows, and integrations between independent services.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **☁️ Cloud & Infrastructure**
-
 Building and operating cloud-native applications using AWS, GCP, Docker, and Kubernetes.
 
-**🧠 Architecture & Technical Leadership**
-
+**🧠 Architecture & Leadership**
 Making architectural decisions, improving existing systems, mentoring engineers, and balancing delivery with maintainability.
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
+<!-- Tech Stack -->
 ### 🛠️ Tech Stack
 
 **Languages & Backend**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -82,8 +67,7 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 </p>
 
 **Cloud & DevOps**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -94,8 +78,7 @@ Making architectural decisions, improving existing systems, mentoring engineers,
 </p>
 
 **Databases & Messaging**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -105,20 +88,9 @@ Making architectural decisions, improving existing systems, mentoring engineers,
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
 
-**Frontend & Other Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
 ---
 
-<!-- ==================== ENGINEERING HIGHLIGHTS ==================== -->
-
+<!-- Engineering Highlights -->
 ### 🚀 Engineering Highlights
 
 A few examples of the problems I've worked on throughout my career.
@@ -131,7 +103,7 @@ A few examples of the problems I've worked on throughout my career.
   - Optimized critical SQL queries, improving performance by **70% on selected endpoints**.
   - Worked with Node.js, TypeScript, PostgreSQL, Redis, AWS, and distributed messaging systems.
 
-  Focus: backend architecture, data consistency, performance, and business-critical workflows.
+  *Focus: backend architecture, data consistency, performance, and business-critical workflows.*
 </details>
 
 <details>
@@ -139,10 +111,10 @@ A few examples of the problems I've worked on throughout my career.
   <br />
 
   - Integrated microservices using Apache Kafka and event-driven architecture.
-  - Built an asynchronous controller for workflow-triggered events and packaged it into a reusable library for other services.
+  - Built an asynchronous controller for workflow-triggered events and packaged it into a reusable library.
   - Worked on APIs and distributed services in a high-traffic e-commerce environment.
 
-  Focus: asynchronous processing, service integration, scalability, and reliability.
+  *Focus: asynchronous processing, service integration, scalability, and reliability.*
 </details>
 
 <details>
@@ -153,7 +125,7 @@ A few examples of the problems I've worked on throughout my career.
   - Collaborated with hardware teams to define APIs and documentation for third-party device integrations.
   - Helped establish integration approaches that reduced vendor lock-in.
 
-  Focus: real-time data, search, integrations, and system interoperability.
+  *Focus: real-time data, search, integrations, and system interoperability.*
 </details>
 
 <details>
@@ -164,7 +136,7 @@ A few examples of the problems I've worked on throughout my career.
   - Built full-stack applications with Node.js, TypeScript, and React.
   - Integrated mapping capabilities into construction and real estate workflows.
 
-  Focus: product development, serverless architecture, and automation.
+  *Focus: product development, serverless architecture, and automation.*
 </details>
 
 <details>
@@ -175,75 +147,48 @@ A few examples of the problems I've worked on throughout my career.
   - Modernized application architecture across Java/Spring, Node.js, and Angular.
   - Contributed to technical leadership, mentoring, and engineering process improvements.
 
-  Focus: legacy modernization, system integration, and performance optimization.
+  *Focus: legacy modernization, system integration, and performance optimization.*
 </details>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-
+<!-- Projects -->
 ### 🔬 Projects & Technical Exploration
 
-I use GitHub to explore ideas, strengthen my computer science foundations, and build practical implementations of software engineering concepts.
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 **📚 Computer Science**
-
 A collection of learning resources and implementations covering computer science fundamentals.
 
-<a href="https://github.com/ileopoldes/computer-science">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/ileopoldes/computer-science"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 **🔄 Tether Orderbook**
-
 A distributed peer-to-peer exchange take-home project featuring in-memory order books and inter-node order propagation using Grenache RPC.
 
-<a href="https://github.com/bender-tech-ltda/tether-orderbook">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/bender-tech-ltda/tether-orderbook"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ==================== BEYOND ENGINEERING ==================== -->
-
+<!-- Beyond Engineering -->
 ### 💡 Beyond Engineering
 
 I'm also an entrepreneur.
 
-**Code Society** — Co-founded a software company, providing technical leadership, architecture, and software delivery for clients.
-
-**Quefo.me** — Co-founded a food delivery SaaS startup and helped bring its MVP to market in three months.
-
-Building products and working directly with businesses has shaped how I approach engineering: understanding the problem, making pragmatic decisions, and delivering solutions that create value.
+- **Code Society** — Co-founded a software company, providing technical leadership, architecture, and software delivery for clients.
+- **Quefo.me** — Co-founded a food delivery SaaS startup and helped bring its MVP to market in three months.
 
 ---
 
-<!-- ==================== INTERESTS ==================== -->
-
-### 🌱 What I'm Interested In
-
-- Distributed systems and backend architecture.
-- Building products from the ground up.
-- Complex integrations and data-intensive applications.
-- Cloud-native systems and production reliability.
-- Engineering teams that value ownership, autonomy, and technical depth.
-- Continuous learning and understanding how things work under the hood.
-
----
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
+<!-- GitHub Stats -->
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -257,25 +202,10 @@ Building products and working directly with businesses has shaped how I approach
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
-
-### 🤝 Let's Connect
-
-I'm always happy to connect with fellow engineers, founders, and people working on interesting technical challenges.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulobender">
-    <img src="https://img.shields.io/badge/LinkedIn-Paulo_Bender-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ileopoldes">
-    <img src="https://img.shields.io/badge/GitHub-ileopoldes-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
+<!-- Footer -->
 <p align="center">
   <i>Building software, solving problems, and learning something new along the way.</i>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 </p>
