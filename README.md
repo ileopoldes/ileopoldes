@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20|%20Backend%20&%20Distributed%20Systems&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&fontColor=ffffff&height=180&section=header&text=Paulo%20Bender&fontSize=38&fontAlignY=35&desc=Senior%20Software%20Engineer%20&%20Distributed%20Systems&descSize=16&descAlignY=58" />
 
 <!-- Links / Badges -->
 <p align="center">
